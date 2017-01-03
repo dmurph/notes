@@ -1,6 +1,7 @@
 # Learning about Learning
 
- ## Thinking
+# Chapter 1
+## Thinking
 Pinball analogy - rubber bumpers with a pinball machine.
 
 ### Focused thinking
@@ -41,3 +42,5 @@ Success is not necessarily come by being smart. Success is passion and persistan
 
 # Concusions for myself:
  * Focus on exercises in books, and taking notes, instead of just reading.
+ * Implement something instead of just reading about it.
+ * Use a timer, encourage focused and diffuse thinking
