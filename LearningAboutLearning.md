@@ -1,6 +1,6 @@
 # Learning about Learning
 
- ## Thinking
+## Thinking
 Pinball analogy - rubber bumpers with a pinball machine.
 
 ### Focused thinking
@@ -14,12 +14,13 @@ Solving or figuring out something new. Happens when going to sleep, creating new
 go for a walk, take a shower, drift off to sleep.
 
 ## Memory
- * Working memory - can hold 4 chunks, have to keep refreshing it, short term, mostly in frontal cortex
- * Long term memory - present throughout the brain, tons of it, working memory has hooks into long term memory to recall chunks.
+ * Working memory - can hold 4 chunks, have to keep refreshing it, short term, mostly in frontal cortex. Thinks can fall out.
+ * Long term memory - present throughout the brain, tons of it, working memory has hooks into long term memory to recall chunks. Might need to have an occasional repetition over multiple days.
 
 ## Sleep
  * Sleep is very important. Clears toxins from brain, strengthens new neural pathways, works on complex pathways, erases unneeded pathways.
  * Optimal learning takes place over several days, where each review strengthens the new neural pathways - be it memory or abstract thinking.
+ * Strengthens long term memory.
 
 
 ## Interview with Dr. Terrence Sejnowski
@@ -38,6 +39,8 @@ Putting yourself in creative environment.
 Brain works in parellel.
 
 Success is not necessarily come by being smart. Success is passion and persistance.
+
+## Chunking
 
 # Concusions for myself:
  * Focus on exercises in books, and taking notes, instead of just reading.
