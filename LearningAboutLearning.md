@@ -42,8 +42,34 @@ Brain works in parellel.
 Success is not necessarily come by being smart. Success is passion and persistance.
 
 ## Chunking
+The accumulation of similar memories, ideas, and processes into one chunk, which can be easily recalled together. Example: putting on a coat / getting dressed. One just has to recall the chunk instead of every complex motion.
+
+Small chunks can be joined into large chunks. Then larger and larger. Best chunks are the ones that are so engrained you don't have to think about connecting them together.
+
+Like language learning.
+
+Starting with examples and working out w/ help or the solution, then focus on WHY the next step is there. By that, think about how to connect to other chunks.
+
+### How to make a chunk
+1. Focus completely. Turn off distractions.
+2. Understand the idea you're trying to chunk.
+  a. Use focused and diffuse if necessary to understand the idea.
+  b. Just understanding how a problem was solved doesn't mean you can recall the chunk later. Review is important.
+3. You understand and learn when you actually do it yourself.
+4. Repeat and practice with related problems. Teaches not only when to USE, but also when NOT to use. Lets you learn how to fit chunk into bigger picture.
+5. Practice helps broaden network of neurons accesible to your chunk.
+
+Learning takes place in 2 ways:
+1. Bottom up chunking process. Build & strengthen each chunk. How to learn a certain problem solving technique.
+2. Top down process that allows you to see what you're learning, where it fits in - diffuse?
+
+Context is where both meet. WHEN to use problem solving technique.
+
+Example, skimming the book first for pictures and broad concepts can help give context. Learn major parts first. Then fill in details.
 
 # Concusions for myself:
  * Focus on exercises in books, and taking notes, instead of just reading.
  * Implement something instead of just reading about it.
  * Use a timer, encourage focused and diffuse thinking
+ * start with small mini-chunks by practicing small parts
+ * try planning out chunks.
