@@ -67,9 +67,27 @@ Context is where both meet. WHEN to use problem solving technique.
 
 Example, skimming the book first for pictures and broad concepts can help give context. Learn major parts first. Then fill in details.
 
+## Illusions of competence
+
+### Recall
+Look away, and see what you can recall. WAY more effective than just 'reading the book' again.  Simply learning and recalling.
+
+When we retrieve knowledge, the retrieval process itself causes us to remember the knowledge better. It's like it builds hooks.
+
+Another way to look at it - when you're first learning, you use your whole working memory. Once it is chunked, it becomes just one slot in working memory.
+
+Just looking at the solution doesn't knit the concept into your brain. Looking is one of the most common illusions of competence in learning.
+
+Highlighting and underlining must be done very carefully - careful not to make it an illusion of competence. If underlining or highlighting, look for key concepts first and read page first, then keep minimal - once per page / paragraph.  Words / notes in margin that synthesize main concepts are good.
+
+Test yourself! It's recall, and it verified whether you grasped it.
+
+Also, recalling material OUTSIDE of place of study can be helpful - cool!
+
 # Concusions for myself:
  * Focus on exercises in books, and taking notes, instead of just reading.
  * Implement something instead of just reading about it.
  * Use a timer, encourage focused and diffuse thinking
  * start with small mini-chunks by practicing small parts
  * try planning out chunks.
+ * test myself!
